@@ -4,20 +4,19 @@ export const slides = [
   {
     id: 0,
     image: Images.destination,
-    text: "Choose Your Destination",
-    description: "First choose your destination where you want to go!",
+    text: "Pick Your Destination",
+    description: "Select the place you’d like to explore — your journey begins here.",
   },
   {
     id: 1,
     image: Images.trip,
-    text: "Wait for your driver",
-    description: "Just wait for a while now until your driver is picking you!",
+    text: "Meet Your Driver",
+    description: "Sit back and relax while your driver arrives to pick you up.",
   },
   {
     id: 2,
     image: Images.bookRide,
-    text: "Enjoy Your Trip",
-    description:
-      "Now enjoy your trip, pay your driver after reaching the destination!",
+    text: "Enjoy the Ride",
+    description: "Take in the sights and enjoy a smooth journey to your destination.",
   },
 ];
