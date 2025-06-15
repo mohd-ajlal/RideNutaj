@@ -32,7 +32,7 @@ export default function PhoneNumberInput({ width }: any) {
           <TextInput
             style={[commonStyles.regularText]}
             placeholderTextColor={color.subtitle}
-            placeholder="+880"
+            placeholder="+91"
             keyboardType="numeric"
           />
         </View>
