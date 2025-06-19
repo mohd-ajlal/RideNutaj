@@ -3,6 +3,8 @@ export type Color = {
     regularText: string;
     primaryText: string;
     linearBorder: string;
+    secondaryFont: string;
+    red: string;
     subtitle: string;
     lightGreen: string;
     whiteColor: string;
@@ -35,12 +37,14 @@ export type Color = {
     regularText: '#8F8F8F',
     primaryText: '#1F1F1F',
     linearBorder: 'rgba(149, 143, 159, 0.00)',
+    secondaryFont:'#8F8F8F',
+    red:'#FF4B4B',
     subtitle: '#9BA6B8',
     lightGreen: '#E8F4F1',
     whiteColor: '#fff',
     blackColor: '#000',
     primaryGray: '#E9E9E9',
-    buttonBg: '#199675',
+    buttonBg: '#665CFF',
     iconBg: '#32A284',
     modelBg: 'rgba(0, 0, 0, 0.5)',
     darkHeader: '#272727',
